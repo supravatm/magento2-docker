@@ -1,5 +1,4 @@
 #ignore
-/src/app/etc/config.php
 /src/app/etc/env.php
 /src/vendor/
 !/src/vendor/.htaccess
